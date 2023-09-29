@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+h1 {
+    font-family: verdana;
+    color: whitesmoke;
+}
+h2 {
+    font-family: verdana;
+    color: whitesmoke;
+}
+p {
+    font-family: arial;
+    color: white;
+}
+button {
+    border: 7px;
+    border-color: aqua;
+    color: grey;
+}
